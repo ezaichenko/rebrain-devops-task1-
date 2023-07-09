@@ -22,7 +22,11 @@
 
 <details>
 
-<summary>Изучим картинку</summary>
+<summary>
+
+### Изучим картинку 
+
+</summary>
 
 ![DevOps Picture](https://i.pinimg.com/originals/d2/08/84/d208846d818b1ec49acc8e2e4a01858f.jpg)
 
@@ -39,7 +43,7 @@
 | Команда | Описание |
 | --- | --- |
 | `git status` | Просмотр ветки |
-| git add | Отследить новые файлы **Версионный контороль** | 
+| git add | Отследить новые файлы **Версионный контроль** | 
 | `git diff` | Сравнить текст |
 
 
@@ -49,11 +53,12 @@ name = input('Enter your name: ')
     print('Hello', name)
 ```
 
-## Не актуально
-~~When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thank you to [makeareadme.com](https://www.makeareadme.com/) for this template.~~
+## Тут цитируем 
+>  DevOps: что это такое, как расшифровывается, что делает
+DevOps (расшифровывается как сочетание слов «Разработка»/«Development» и «Операции»/«Operations») — это, если говорить простыми словами, актуальная культура/идея командного подхода к решению задач при разработке ПО и/или выполнении ИТ-операций с целью уменьшения затрат компании и снижения нагрузки на трудовые ресурсы.
 
 
 ### Посмотрим что получилось 
 
-* [README](https://gitlab.rebrainme.com/devops_users_repos/5166/rebrain-devops-task1/-/blob/main/README.md)
+[README](https://gitlab.rebrainme.com/devops_users_repos/5166/rebrain-devops-task1/-/blob/main/README.md)
 
