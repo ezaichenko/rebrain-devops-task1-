@@ -1,40 +1,35 @@
-В данном репозитории находится дефолтный конфигурационный файл nginx
+***В данном репозитории находятся разные мысли***
 
-
-=======
-# rebrain-devops-task1
+# Мой проект rebrain-devops-task1
 
 rebrain-devops-task1
 
-## Getting started
+## Начало начал
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+- Для начала включите Youtube и посмотрите классный видосик. [ТУТ](https://youtu.be/6CSjY8EZx6A) а следом [ЛК-rebrain](https://lk.rebrainme.com)
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
 
-## Add your files
+### Добавим файлы
 
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
 
 ```
 1. cd existing_repo
-2. git remote add origin https://gitlab.rebrainme.com/devops_users_repos/5166/rebrain-devops-task1.git
-3. git branch -M main
-4. git push -uf origin main
+2. `git remote add origin` https://gitlab.rebrainme.com/devops_users_repos/5166/rebrain-devops-task1.git
+3. `git branch -M` main
+4. `git push -uf origin` main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.rebrainme.com/devops_users_repos/5166/rebrain-devops-task1/-/settings/integrations)
+* ![DevOps Picture](https://i.pinimg.com/originals/d2/08/84/d208846d818b1ec49acc8e2e4a01858f.jpg)
 
 ## Collaborate with your team
 
-* [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-* [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-* [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-* [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-* [ ] [Automatically merge when pipeline succeeds](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
+- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
+- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
+- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
+- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
+ [ ] [Automatically merge when pipeline succeeds](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
 
 ## Test and Deploy
 
@@ -59,10 +54,10 @@ Every project is different, so consider which of these sections apply to yours. 
 Choose a self-explaining name for your project.
 
 ## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+<sub>Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.</sub>
 
 ## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
+~~On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.~~
 
 ## Visuals
 Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
