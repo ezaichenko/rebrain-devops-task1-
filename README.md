@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 В данном репозитории находится дефолтный конфигурационный файл nginx
 
 
@@ -19,10 +18,10 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 - [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
 
 ```
-cd existing_repo
-git remote add origin https://gitlab.rebrainme.com/devops_users_repos/5166/rebrain-devops-task1.git
-git branch -M main
-git push -uf origin main
+1. cd existing_repo
+2. git remote add origin https://gitlab.rebrainme.com/devops_users_repos/5166/rebrain-devops-task1.git
+3. git branch -M main
+4. git push -uf origin main
 ```
 
 ## Integrate with your tools
@@ -31,11 +30,11 @@ git push -uf origin main
 
 ## Collaborate with your team
 
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Automatically merge when pipeline succeeds](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
+* [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
+* [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
+* [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
+* [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
+* [ ] [Automatically merge when pipeline succeeds](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
 
 ## Test and Deploy
 
